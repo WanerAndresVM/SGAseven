@@ -1,0 +1,5 @@
+/venv
+/SGA_SEVEN/SGA_SEVEN/__pycache__/
+/SGA_SEVEN/apps/SGA/migrations/
+/SGA_SEVEN/apps/SGA/__pycache__/
+/SGA_SEVEN/*.sqlite3
