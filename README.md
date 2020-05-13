@@ -1,14 +1,17 @@
-#SISTEMA GESTOR DE ACTIVIDADES EDUCATIVAS SEVEN (SGA)
+# SISTEMA GESTOR DE ACTIVIDADES EDUCATIVAS SEVEN (SGA)
 
-Es un sistema que le permitiria administrar todo el sistema de asignación de clases, maestros, entrega de notas, administrar todo un plantel educativo
+Es un sistema que le permitiria administrar todo el sistema de asignación de clases, maestros, entrega de notas, administrar todo un plantel educativo.
 
-#Pasos de instalación
-Ejecutar los siguientes comandos
-*1. Crear un entorno virtual de python usando (venv o alguna otra herramienta)
-*2. pip install requirement.txt
-*3. python manage.py makemigrations
-*4. python manage.py migrate
 
-#API
+__1. Pasos de instalación__
 
-*Asignar Curso
+  >Es recomendable crear un entorno virtual con alguna herramienta como (venv, pipenv)
+
+  * pip install requirement.txt
+
+__2. Realizar migraciones de las bases de datos__
+  * python manage.py makemigrations
+  * python manage.py migrate
+
+___API___
+__1. Asignar Curso__
